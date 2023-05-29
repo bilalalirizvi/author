@@ -1,7 +1,7 @@
-import React from "react";
+import { HomePage } from "@modules";
 
 const Home = () => {
-  return <div>Home</div>;
+  return <HomePage />;
 };
 
 export default Home;
